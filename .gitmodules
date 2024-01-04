@@ -1,0 +1,6 @@
+[submodule "interface_debug"]
+	path = interface_debug
+	url = https://github.com/Stadtmusiker/interface_debug.git
+[submodule "RTT"]
+	path = RTT
+	url = https://github.com/Stadtmusiker/RTT.git
